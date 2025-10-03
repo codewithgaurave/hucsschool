@@ -17,9 +17,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HUCS">
         <activity
-            android:name=".ProfileActivity"
+            android:name=".MainActivity2"
             android:exported="false" />
-        <!-- Firebase Service -->
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" /> <!-- Firebase Service -->
         <service
             android:name=".network.MyFirebaseMessagingService"
             android:exported="false">
