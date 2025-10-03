@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="primary_color">#3A6073</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="selected_item_color">#E3F2FD</color>
+    <color name="softBlue">#E3F2FD</color>
+    <color name="softGreen">#E8F5E9</color>
+    <color name="softYellow">#FFF9C4</color>
+    <color name="softPeach">#FFE0B2</color>
+    <color name="softLavender">#EDE7F6</color>
+</resources>

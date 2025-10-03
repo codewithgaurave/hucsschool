@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:fontFamily="sans-serif-condensed-light"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_download"
+        android:icon="@drawable/outline_download_24"
+        android:fontFamily="sans-serif-condensed-light"
+        android:title="Download"/>
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@drawable/outline_favorite_24"
+        android:fontFamily="sans-serif-condensed-light"
+        android:title="Fav"/>
+    <item
+        android:icon="@drawable/outline_live_tv_24"
+        android:id="@+id/nav_liveClass"
+        android:fontFamily="sans-serif-condensed-light"
+        android:title="Live Class"/>
+</menu>
+

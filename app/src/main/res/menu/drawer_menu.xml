@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/drawer_profile"
+            android:icon="@drawable/outline_person_24"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/drawer_fee"
+            android:icon="@drawable/outline_attach_money_24"
+            android:title="Fee stucture"
+            />
+        <item
+            android:id="@+id/drawer_feeSubmit"
+            android:title="Fee Submit"
+            android:icon="@drawable/outline_check_24"
+            />
+        <item
+            android:id="@+id/drawer_feereceipt"
+            android:title="Fee-Receipt"
+            android:icon="@drawable/outline_receipt_24"/>
+    <item
+        android:id="@+id/drawer_course"
+        android:icon="@drawable/outline_bookmark_24"
+        android:title="Course"
+        />
+</menu>
